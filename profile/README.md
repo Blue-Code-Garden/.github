@@ -4,16 +4,16 @@ Blue Code Garden's story started on Github on August 4, 2022. We strive every da
 
 ### ✨ Blue Code Garden
 
-Harvest what you code
+You will always harvest what you code…
 
 [See more repositories](https://github.com/orgs/Blue-Code-Garden/repositories)
 
 ### 😃 We are hiring
 
-BLue Code Garden has a diverse and vibrant team from around the world.
+Blue Code Garden has a diverse and vibrant team from around the world.
 
 - [Careers](https://codegarden.nl/careers) - Our open positions
-- [Company Handbook](https://codegarden.nl/handbook) - Discover our values, the team, who we are, how we work, and more!
+- [Company](https://codegarden.nl/) - Discover our values, the team, who we are, how we work, and more!
 - [About us](https://codegarden.nl/about-us) - The Story of Blue Code Garden
 
 [Feel free to contact us](https://codegarden.nl/contact)
